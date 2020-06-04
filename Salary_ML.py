@@ -118,4 +118,5 @@ def main():
 
 
 if __name__ == '__main__':
+    print('I am Arya')
     best_model = main()
